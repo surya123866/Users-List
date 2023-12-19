@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+  border: none;
+}
+.App {
+  text-align: center;
+  background-color: #242424;
+  height: auto;
+}
